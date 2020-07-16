@@ -15,4 +15,4 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-<img src="https://raw.githubusercontent.com/anuragseven/nasa_apod/606d9a94b8e600db489ad24dc14e38f082b67b1f/nasaapod.jpg" alt="nasa_apod ui" width="700" height="1231">
+<img src="https://raw.githubusercontent.com/anuragseven/nasa_apod/606d9a94b8e600db489ad24dc14e38f082b67b1f/nasaapod.jpg" alt="nasa_apod ui" width="400" height="800">

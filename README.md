@@ -21,4 +21,4 @@ if you would like to know step by step how this project is built , you can check
 
 # User Interface
 
-<img src="https://raw.githubusercontent.com/anuragseven/nasa_apod/606d9a94b8e600db489ad24dc14e38f082b67b1f/nasaapod.jpg" alt="nasa_apod ui" width="400" height="800">
+<img src="https://raw.githubusercontent.com/anuragseven/nasa_apod/606d9a94b8e600db489ad24dc14e38f082b67b1f/nasaapod.jpg" alt="nasa_apod ui" width="400" height="600">

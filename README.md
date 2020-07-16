@@ -1,4 +1,4 @@
-# nasaapod
+# NASA APOD
 
 A Flutter application which displays NASA APOD
 

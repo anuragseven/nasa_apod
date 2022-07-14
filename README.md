@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 # Tutorial
-if you would like to know step by step how this project is built , you can check [this](https://datahunk.dev/your-post-title-flutter-nasa-astronomical-picture-of-the-day-) tutorial .
+if you would like to know step by step how this project is built , you can check [this](https://anuragseven.github.io/your-post-title-flutter-nasa-astronomical-picture-of-the-day-) tutorial .
 
 # User Interface
 
